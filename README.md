@@ -1,5 +1,4 @@
-### 你好喵 🐱
-#### Nya
+### 这里是小音
 
 <a href="#stats" align="center">
     <img align="center" alt="Ferdina Kusumah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LittleSound&count_private=true&show_icons=true&include_all_commits=true&show_owner=true"/>
