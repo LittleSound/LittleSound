@@ -1,4 +1,4 @@
-## Hi there, I'm Rizumu Ayaka <sup>(or Little Sound)</sup>
+## Hi there, I'm Rizumu Ayaka <sup>(or 小音 Little Sound)</sup>
 
 <!-- <p align="center">
   <samp>
