@@ -18,6 +18,7 @@
 
 <p align="right">
   <samp>
+    <a href="https://bento.me/rizumu">bento</a> .
     <a href="https://twitter.com/OikawaRizumu">tweets</a> .
     <a href="https://mas.to/@rizumu">mastodon</a> .
     <a href="https://nolebase.ayaka.io/">knowledge</a>
