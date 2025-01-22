@@ -16,9 +16,9 @@
 ---
 <p align="right">
   <samp>
-    <a href="https://bento.me/rizumu">details</a> .
-    <a href="https://bsky.app/profile/rzmu.bsky.social">bluesky</a> .
-    <a href="https://twitter.com/OikawaRizumu">tweets</a> .
-    <a href="https://nolebase.ayaka.io/">notes</a>
+    <a href="https://bento.me/rizumu" target="_blank">details</a> .
+    <a href="https://bsky.app/profile/rzmu.bsky.social" target="_blank">bluesky</a> .
+    <a href="https://twitter.com/OikawaRizumu" target="_blank">tweets</a> .
+    <a href="https://nolebase.ayaka.io/" target="_blank">notes</a>
   </samp>
 </p>
