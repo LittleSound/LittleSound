@@ -7,7 +7,7 @@
 ### News 📰 <sup title="updated on this month"><samp>01/2025</samp></sup>
 
 - 💨 I am developing the next upgrade for Vue: [Vapor Mode](https://www.vuemastery.com/blog/the-future-of-vue-vapor-mode/#why-vapor-mode)
-- 🎤 Follow [my talk about Vue Vapor Mode at Vue Nation 2025](https://bsky.app/profile/vuejsnation.com/post/3lejbsvkzbc2l)
+- 🎤 Follow [my talk about Vue Vapor Mode at Vue Nation 2025](https://www.youtube.com/embed/hEk1sPA0lqU)
 - 🔥 Refactored Vue's Watch and added a new API. It has been merged in [#9927](https://github.com/vuejs/core/pull/9927)
 - 🥇 We made [Guii.AI](https://guii.ai) and got [four first-place awards at AdventureX 2024](https://x.com/OikawaRizumu/status/1814225750230528109)
 
