@@ -4,7 +4,7 @@
 
 🌟 Member of @vuejs and @elk-zone @nolebase @project-trans
 
-### News 📰 <sup title="updated on this month"><samp>01/2025</samp></sup>
+### News 📰 <sup title="updated on this month"><samp>02/2025</samp></sup>
 
 - 💨 I am developing the next upgrade for Vue: [Vapor Mode](https://www.vuemastery.com/blog/the-future-of-vue-vapor-mode/#why-vapor-mode)
 - 🎤 Follow [my talk about Vue Vapor Mode at Vue Nation 2025](https://www.youtube.com/embed/hEk1sPA0lqU)
