@@ -8,8 +8,8 @@
 
 - 💨 I am developing the next upgrade for Vue: [Vapor Mode](https://www.vuemastery.com/blog/the-future-of-vue-vapor-mode/#why-vapor-mode)
 - 🎤 My talk about Vue Vapor Mode
-  - `CN` [at VueConf 2025 Shenzhen](https://www.bilibili.com/video/BV119gbzNE2o)
-  - `EN` [at Vue Nation 2025](https://www.youtube.com/embed/hEk1sPA0lqU)
+  - `CN` [at VueConf 2025 Shenzhen](https://github.com/LittleSound/talks/tree/main/2025-07-12)
+  - `EN` [at Vue Nation 2025](https://github.com/LittleSound/talks/tree/main/2025-01-30)
 - 🔥 Refactored Vue's Watch and added a new API. It has been merged in [#9927](https://github.com/vuejs/core/pull/9927)
 - 🍪 I made many 3D printed dev ecosystem logos: [Developer Cookies](https://x.com/search?q=from:OikawaRizumu%20%E5%B0%8F%E9%A5%BC%E5%B9%B2&src=typed_query&f=live)
 - 🥇 We made [Guii.AI](https://guii.ai) and got [four first-place awards at AdventureX 2024](https://x.com/OikawaRizumu/status/1814225750230528109)
