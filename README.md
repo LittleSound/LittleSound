@@ -16,6 +16,29 @@
 
 <br />
 
+### Sponsors
+
+<table>
+  <tr>
+    <td>
+      <p align="left">
+        <a href="https://github.com/sponsors/LittleSound">
+          <img src="https://cdn.jsdelivr.net/gh/littlesound/sponsors/sponsors.circles.svg" height="300px" />
+        </a>
+      </p>
+    </td>
+    <td>
+      <h3>
+        Thank you to all sponsors!
+      </h3>
+      <p align="left">
+        Welcome to join them.
+      </p>
+      <p align="left"><a href="https://github.com/sponsors/LittleSound"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=for-the-badge" /></a></p>
+    </td>
+  </tr>
+</table>
+
 ---
 <p align="right">
   <samp>
