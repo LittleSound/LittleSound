@@ -43,7 +43,7 @@
 <p align="right">
   <samp>
     <a href="https://rizumu.ayaka.moe" target="_blank">details</a> .
-    <a href="https://bsky.app/profile/rzmu.bsky.social" target="_blank">bluesky</a> .
+    <a href="https://bsky.app/profile/rizumu.ayaka.moe" target="_blank">bluesky</a> .
     <a href="https://twitter.com/OikawaRizumu" target="_blank">tweets</a> .
     <a href="https://nolebase.ayaka.io/" target="_blank">notes</a> .
     <a href="https://github.com/LittleSound/talks/#readme" target="_blank">talks</a>
