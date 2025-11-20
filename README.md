@@ -11,8 +11,8 @@
   - `CN` [at VueConf 2025 Shenzhen](https://github.com/LittleSound/talks/tree/main/2025-07-12)
   - `EN` [at Vue Nation 2025](https://github.com/LittleSound/talks/tree/main/2025-01-30)
 - 🔥 Refactored Vue's Watch and added a new API. It has been merged in [#9927](https://github.com/vuejs/core/pull/9927)
-- 🍪 I made many 3D printed dev ecosystem logos: [Developer Cookies](https://x.com/search?q=from:OikawaRizumu%20%E5%B0%8F%E9%A5%BC%E5%B9%B2&src=typed_query&f=live)
-- 🥇 We made [Guii.AI](https://guii.ai) and got [four first-place awards at AdventureX 2024](https://x.com/OikawaRizumu/status/1814225750230528109)
+- 🍪 I made many 3D printed dev ecosystem logos: [Developer Cookies](https://x.com/search?q=from:RizumuA3%20%E5%B0%8F%E9%A5%BC%E5%B9%B2&src=typed_query&f=live)
+- 🥇 We made [Guii.AI](https://guii.ai) and got [four first-place awards at AdventureX 2024](https://x.com/RizumuA3/status/1814225750230528109)
 
 <br />
 
@@ -44,7 +44,7 @@
   <samp>
     <a href="https://rizumu.ayaka.moe" target="_blank">details</a> .
     <a href="https://bsky.app/profile/rizumu.ayaka.moe" target="_blank">bluesky</a> .
-    <a href="https://twitter.com/OikawaRizumu" target="_blank">tweets</a> .
+    <a href="https://x.com/RizumuA3" target="_blank">tweets</a> .
     <a href="https://nolebase.ayaka.io/" target="_blank">notes</a> .
     <a href="https://github.com/LittleSound/talks/#readme" target="_blank">talks</a>
   </samp>
